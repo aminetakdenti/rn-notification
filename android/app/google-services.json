@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57766655502",
+    "project_id": "learn-notification-29ff2",
+    "storage_bucket": "learn-notification-29ff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57766655502:android:a1ca18dff6182b4f472e5f",
+        "android_client_info": {
+          "package_name": "com.testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_5MUiZ9PpPM_IQo-qVpqcaB6GGGR63N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
